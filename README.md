@@ -1,7 +1,7 @@
 <img src="https://images.pixexid.com/a-thoughtful-programmer-stares-at-screens-full-of-code-encircled-by-numbers-sy-v9q462mq.jpeg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 4368px; height: 242px; margin: 0px; width: 432px;" alt="A thoughtful programmer stares at screens full of code, encircled by  numbers, symbols, and matrix-like grids" jsname="kn3ccd" aria-hidden="false">
 
 <h1 align="center">Hi 👋, I'm Garrett Billingsly</h1>
-<h3 align="center">I am an aspiring Web Developer building my foundational education, with HTML, CSS, and javascript under my belt(3 years). Looking to master the art and build a portfolio to transition out of my current career at UPS.</h3>
+<h3 align="center">I am an aspiring Web Developer building my foundational education, with HTML, CSS, and javascript under my belt(3 years). Looking to master the art and build a portfolio to transition out of my current career at UPS. My end goal is to get into Ethereum Smart Contracts and Blockchsin Development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kre8ivemind&label=Profile%20views&color=0e75b6&style=flat" alt="kre8ivemind" /> </p>
 
